@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 2020-01-10 Daily Journal
+date: 2020-01-10 09:16:01 -0900
+category: DailyJournal
 ---
 
 ## 이번 달 목표

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: VSCode Project Manager 확장프로그램 사용하기
+date: 2020-01-09 22:16:01 -0900
+category: vscode
 ---
 
 # VSCode Project Manager 확장프로그램 사용하기
