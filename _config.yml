@@ -20,8 +20,8 @@ description: 배운것 느낀것, 생각과 일상을 적습니다.
 
 # List of links in the navigation bar
 navbar-links:
+  blog: "blog"
   About Me: "aboutme"
-  blog: "index"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
