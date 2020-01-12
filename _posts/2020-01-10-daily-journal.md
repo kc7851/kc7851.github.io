@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2020-01-10 Daily Journal
-date: 2020-01-10 09:16:01 -0900
+date: 2020-01-10 09:16:01 0900
 category: DailyJournal
 ---
 
@@ -24,9 +24,9 @@ category: DailyJournal
 ### 어제 한 일:
 * AWS EC2로 crawling 실행하기
 * VSCode에서 snippet 사용하는 방법 포스팅
-  * [https://kc7851.github.io/2020-01-09-snippet만들어-사용하기/](https://kc7851.github.io/2020-01-09-snippet%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
+  * [snippet만들어-사용하기/]({{ "2020-01-09-snippet만들어-사용하기" | absolute_url }})
 * VSCode에서 Project Manager 사용하는 방법 포스팅
-  * [https://kc7851.github.io/2020-01-09-project-manager/](https://kc7851.github.io/2020-01-09-project-manager/)
+  * [project-manager/]({{ "2020-01-09-project-manager" | absolute_url }})
 
 ### 배운점 & 느낀점
 * 토비의 스프링 Vol.1의 9장의 내용이 재밌었다. Layerd Architecture에 대한 내용이 나오는데 암것도 모를때 아샬님이 많이 말씀하셨던 Layerd Architecture가 오버랩되면서 그 때는 이해되지 못했던 부분들도 더 와닿았다. 역시 모르니까 일단 들어야된다는 말이 맞다고 생각했다.

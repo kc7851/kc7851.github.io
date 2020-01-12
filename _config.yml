@@ -20,7 +20,7 @@ description: 배운것 느낀것, 생각과 일상을 적습니다.
 
 # List of links in the navigation bar
 navbar-links:
-  blog: "blog"
+  blogs: "blogs"
   About Me: "aboutme"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -166,6 +166,10 @@ paginate: 10
 kramdown:
   input: GFM
 
+collections:
+  blogs:
+    output: true
+    permalink: /:collection/:path
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
